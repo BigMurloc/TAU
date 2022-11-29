@@ -37,10 +37,3 @@ public class Friendships {
         friendships.computeIfAbsent(person, s -> new ArrayList<>()).add(friend);
     }
 }
-
-/**
- * dodawanie przyjaciol
- * sprawdzenie czy
- * lista przyjciol
- *
- */
